@@ -1,2 +1,2 @@
-## Build REST API with Controller Test with Lumen
+## Build REST API and Controller Test with Lumen
 
